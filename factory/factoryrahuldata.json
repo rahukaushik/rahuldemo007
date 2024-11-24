@@ -1,0 +1,9 @@
+{
+	"name": "factoryrahuldata",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9148099-5e76-41d4-b156-ea2089e290b9",
+		"tenantId": "d66d6123-05eb-441e-86c0-3b38b70cc4f4"
+	}
+}
